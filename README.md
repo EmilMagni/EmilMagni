@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmilMagni
 - 👀 I’m interested in Applied AI and intelligent automation
-- 🌱 I’m currently learning about Microsoft Power Platform, Python and Machine Learning
+- 🌱 I’m currently learning about Quantum Computing with Qiskit.
 
 
 <!---
